@@ -24,3 +24,8 @@ Copy command line to clipboard
 
 Switch right alt with underscore `_`.
 Switch semicolon with colon.
+
+
+## Custom keyboards
+
+Checkout https://www.ergodox.io/ 
